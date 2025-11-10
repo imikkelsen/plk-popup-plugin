@@ -7,6 +7,9 @@ Popop plugin til: Storyscaping eksamen del. 2
 Et simpelt og brugervenligt WordPress-plugin, der viser et popup-vindue med et billede og en knap, som linker til en valgfri side.
 Perfekt til kampagner, events eller sociale medier — fx “Følg os på Instagram”.
 
+Dette plugin kan ses på (https://im.imikkelsen.dk/)
+
+
 
 ## Funktioner
 
